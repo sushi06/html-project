@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+    color: teal;
+}
+header{
+    font-size: 10px;
+    text-align: center;
+}
+.p1{
+    font-size: 50px;
+}
+nav{
+    border-radius: 5px;
+    border-color: red;
+    border:10px;
+    background-color: white;
+    height:30px;
+    font-weight: 900;
+    font-size: 20px;
+}
+main{
+    font-size: 20px;
+    text-align: center;
+}

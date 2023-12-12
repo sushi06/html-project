@@ -1,0 +1,44 @@
+body{
+     background-image: url(img2.jpg);
+ 
+}
+ .p1{
+    color: teal;
+    font-size: 50px;
+    font-weight: 1000;
+ }
+ .p2{
+    color: teal;
+    font-size: 35px;
+    font-weight: 600;
+ }
+ .details{
+    color: teal;
+    font-size: 20px;
+
+ }
+ .para{
+    color: teal;
+    font-size: 40px;
+    font-weight: 600;
+    text-decoration-line: underline;
+ }
+ 
+ .para2{
+    text-align: center;
+    font-weight: 5000;
+    font-size: 50px;
+ }
+.box{
+    color: teal;
+    font-weight: 900;
+}
+nav{
+    border-radius: 5px;
+    border-color: red;
+    border:10px;
+    background-color: white;
+    height:30px;
+    font-weight: 900;
+    font-size: 20px;
+}

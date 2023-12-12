@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+    color: teal;
+    align-items: center;
+}
+header{
+    text-align: center;
+    font-size: 40px;
+}
+
+
+nav{
+    border-radius: 5px;
+    border-color: red;
+    border:10px;
+    background-color: white;
+    height:30px;
+    font-weight: 900;
+    font-size: 20px;
+}
+.container{
+    display: flex;
+}
+.card{
+    justify-content: center;
+    padding: 10px;
+    margin:50px
+
+}
+.extra{
+    text-align: center;
+}
+.motiv{
+    color: red;
+    font-weight: 1000;
+}
